@@ -35,7 +35,9 @@ body {
   }
   
   #lolcatImage {
-    max-width:30em
+    max-width:30em;
+    border-radius: 50%;
+    overflow: hidden;
   }
   
   blockquote {
